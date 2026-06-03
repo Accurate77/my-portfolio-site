@@ -10,11 +10,7 @@
   text-decoration: none;
 }
 
-#marketing-projects,
-#websites,
-#social-media,
-#skills,
-#linkedin {
+#marketing-projects {
   padding: 40px;
   background: #f6f6f6;
 }
